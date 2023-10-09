@@ -1,0 +1,69 @@
+{
+	"info": {
+		"_postman_id": "52edcbdb-c92e-4758-ad4d-dbe250b217c6",
+		"name": "BankAPI",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "20855479",
+		"_collection_link": "https://solar-rocket-991593.postman.co/workspace/ATM_Project~7f879f5b-9eb8-4ddc-a147-46fa031a63e1/collection/20855479-52edcbdb-c92e-4758-ad4d-dbe250b217c6?action=share&source=collection_link&creator=20855479"
+	},
+	"item": [
+		{
+			"name": "Accounts",
+			"item": [
+				{
+					"name": "getAllAccounts",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "createAccount",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Transaction",
+			"item": [
+				{
+					"name": "cashDeposit",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "cashWithdrawal",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "fund-transfer",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "getAllTransaction",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
